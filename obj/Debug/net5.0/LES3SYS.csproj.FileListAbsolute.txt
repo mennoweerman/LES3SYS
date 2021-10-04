@@ -1,0 +1,16 @@
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\LES3SYS.exe
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\LES3SYS.deps.json
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\LES3SYS.runtimeconfig.json
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\LES3SYS.runtimeconfig.dev.json
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\LES3SYS.dll
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\ref\LES3SYS.dll
+C:\Users\menno\source\repos\LES3SYS\bin\Debug\net5.0\LES3SYS.pdb
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.csproj.AssemblyReference.cache
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.AssemblyInfoInputs.cache
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.AssemblyInfo.cs
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.csproj.CoreCompileInputs.cache
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.dll
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\ref\LES3SYS.dll
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.pdb
+C:\Users\menno\source\repos\LES3SYS\obj\Debug\net5.0\LES3SYS.genruntimeconfig.cache
